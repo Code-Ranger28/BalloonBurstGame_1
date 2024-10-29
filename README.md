@@ -22,9 +22,8 @@ src/App.js: Renders the game component.
 Prerequisites
 Make sure you have Node.js and npm installed.
 
-🔧 Installation
+Installation
 Clone the repository:
-
 git clone https://github.com/your-username/BalloonBurstGame_1.git
 cd BalloonBurstGame
 
